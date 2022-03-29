@@ -57,6 +57,7 @@ aside.show {
 main {
     flex:1;
     padding:20px;
+    text-align: center;
 }
 h1 {
     font-family:'Hepta Slab', Helvetica, Arial;
